@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\PROJECTS\WEBCAMTOTEXT CPP\CMAKELISTS.TXT
+setlocal
+D:\Programs\Cmake\bin\cmake.exe "-SC:/Users/User/Desktop/Projects/WebcamToText cpp" "-BC:/Users/User/Desktop/Projects/WebcamToText cpp/build" --check-stamp-file "C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

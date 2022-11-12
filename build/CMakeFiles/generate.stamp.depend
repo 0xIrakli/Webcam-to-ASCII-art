@@ -1,0 +1,39 @@
+# CMake generation dependency list for this directory.
+C:/Users/User/Desktop/Projects/WebcamToText cpp/CMakeLists.txt
+C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/3.25.0-rc3/CMakeCCompiler.cmake
+C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/3.25.0-rc3/CMakeCXXCompiler.cmake
+C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/3.25.0-rc3/CMakeRCCompiler.cmake
+C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/3.25.0-rc3/CMakeSystem.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeCInformation.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CPack.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CPackComponent.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CTest.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CTestTargets.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/CTestUseLaunchers.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Compiler/MSVC-C.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/DartConfiguration.tcl.in
+D:/Programs/Cmake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Platform/Windows-MSVC-C.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Platform/Windows.cmake
+D:/Programs/Cmake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+D:/Programs/Cmake/share/cmake-3.25/Templates/CPackConfig.cmake.in
+D:/Programs/OpenCV/build/OpenCVConfig-version.cmake
+D:/Programs/OpenCV/build/OpenCVConfig.cmake
+D:/Programs/OpenCV/build/x64/vc15/lib/OpenCVConfig.cmake
+D:/Programs/OpenCV/build/x64/vc15/lib/OpenCVModules-debug.cmake
+D:/Programs/OpenCV/build/x64/vc15/lib/OpenCVModules-release.cmake
+D:/Programs/OpenCV/build/x64/vc15/lib/OpenCVModules.cmake
