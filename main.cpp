@@ -70,17 +70,22 @@ void webcamLoop(char *chars, size_t arraySize, float wScale, float hScale) {
 
 int main() {
     setCursor(0, 0);
-    setFont(6, 12);
+    setFont(6, 12); //setting font size.
 
+    //characters used to display feed in ascending order of brightness.
     char chars[] = {' ', '.', ',', '*', '-', '+', '=', '%', '?', 'C', 'O', '0', '8', '@', 'X'};
-    float wScale = 2.5f;
-    float hScale = 6.0f;
+    
+    float wScale = 2.5f; //width scale edit both if image doesnt fit in cmd window.
+    float hScale = 6.0f; //height scale (higher than wScale because cmd font is not monospace)
 
     webcamLoop(&chars[0], size(chars), wScale, hScale);
+
     //string image = matToAscii(&imread("image.jpg"), &chars[0], size(chars), wScale, hScale);
     
     //ofstream file("image.txt", ofstream::out);
     //file << image;
     //cout << image;
     //cin >> image; //keep console open
+
+    //!Comment webcamLoop() and uncomment all of the above to use the program with image files instead
 }
