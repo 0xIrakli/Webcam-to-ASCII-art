@@ -1,9 +1,0 @@
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/Experimental.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/Nightly.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/Continuous.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/WebcamToText.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/PACKAGE.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/User/Desktop/Projects/WebcamToText cpp/build/CMakeFiles/ZERO_CHECK.dir
