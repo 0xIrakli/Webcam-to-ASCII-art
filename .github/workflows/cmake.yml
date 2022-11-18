@@ -23,9 +23,11 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: Dovyski/setup-opencv-action@v1.1
-      with:
+    - name: Install OpenCV
+      uses: rayandrews/with-opencv-action@v1
+      with:  
+        dir: ./opencv-install
+        cached: ${{ steps.opencv-cache.outputs.cache-hit }}
         opencv-version: '4.0.0'
         
     - uses: actions/checkout@v3
