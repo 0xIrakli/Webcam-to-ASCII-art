@@ -24,13 +24,9 @@ jobs:
 
     steps:
     - name: Install OpenCV
-      uses: rayandrews/with-opencv-action@v1
-      with:  
-        dir: ./opencv-install
-        cached: ${{ steps.opencv-cache.outputs.cache-hit }}
-        opencv-version: '4.0.0'
-        
-    - uses: actions/checkout@v3
+      uses: florianblume/install-opencv-action@v1
+      with:
+        cached: ${{ steps.cache-open-cv.outputs.cache-hit }}
     
     - name: Create build dir
       run: mkdir build
